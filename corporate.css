@@ -61,7 +61,7 @@ body{
 /* .head-wrapper */
 .head-wrapper::before{
     content: "";
-    background: url(/Images/background.jpg) no-repeat;
+    background: url('Images/background.jpg') no-repeat;
     background-size: cover;
     background-position: center -8rem;
     transform-origin: 1rem;
@@ -148,7 +148,7 @@ body{
 .foot-wrapper{height: 34rem;}
 .foot-wrapper::before{
     content: "";
-    background: url('/Images/backgroun2.jpg') no-repeat;
+    background: url('Images/backgroun2.jpg') no-repeat;
     background-size: cover;
     background-position: center -8rem;
     transform-origin: 1rem;
